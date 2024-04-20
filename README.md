@@ -1,6 +1,7 @@
   # Integrantes
 
   Ayumi Angelly Shigaki Rodriguez (300000087024)
+  
   Jesús David Martino Galindo (300000079727)
 
   # Pinturillo
