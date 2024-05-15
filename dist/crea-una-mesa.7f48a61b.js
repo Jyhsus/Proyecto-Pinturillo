@@ -142,10 +142,10 @@
       this[globalName] = mainExports;
     }
   }
-})({"7P480":[function(require,module,exports) {
+})({"j4pwX":[function(require,module,exports) {
 var global = arguments[3];
 var HMR_HOST = null;
-var HMR_PORT = null;
+var HMR_PORT = 1234;
 var HMR_SECURE = false;
 var HMR_ENV_HASH = "d6ea1d42532a7575";
 var HMR_USE_SSE = false;
@@ -585,6 +585,6 @@ function hmrAccept(bundle /*: ParcelRequire */ , id /*: string */ ) {
 
 },{}],"hjgOA":[function(require,module,exports) {
 
-},{}]},["7P480","hjgOA"], "hjgOA", "parcelRequire4ca0")
+},{}]},["j4pwX","hjgOA"], "hjgOA", "parcelRequire4ca0")
 
 //# sourceMappingURL=crea-una-mesa.7f48a61b.js.map
